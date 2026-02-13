@@ -1,0 +1,105 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Página-1" id="BHKGoQAC96q98QWkLiZP">
+    <mxGraphModel dx="2237" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="simple">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FXgd-CHVyLwEwwq-kU2H-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=50;swimlaneFillColor=none;strokeColor=default;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font&gt;Monopoly&lt;/font&gt;" vertex="1">
+          <mxGeometry height="1110" width="1110" x="-420" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXgd-CHVyLwEwwq-kU2H-10" parent="FXgd-CHVyLwEwwq-kU2H-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=none;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1070" y="10" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;img src=&quot;https://i.pinimg.com/736x/be/9d/ed/be9ded329b3072d0147bab66376a05d8.jpg&quot;&gt;" link="&lt;img src=&quot;https://i.pinimg.com/736x/be/9d/ed/be9ded329b3072d0147bab66376a05d8.jpg&quot;&gt;" id="Bp1vet-o6-UBfAYQzdVO-5">
+          <mxCell parent="FXgd-CHVyLwEwwq-kU2H-1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="760" width="560" x="330" y="290" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-6" parent="FXgd-CHVyLwEwwq-kU2H-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Comfortaa&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Comfortaa&quot;&gt;Comprar&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="500" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-12" parent="FXgd-CHVyLwEwwq-kU2H-1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=light-dark(#000000,#F5F3F3);fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="Logs" vertex="1">
+          <mxGeometry height="340" width="200" x="60" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ySon_ZD4ELbMsgVXR0t4-2" parent="Bp1vet-o6-UBfAYQzdVO-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="El Jugador 3 tira los dados: Ha sacado un 4 y un 5." vertex="1">
+          <mxGeometry height="30" width="180" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ySon_ZD4ELbMsgVXR0t4-1" parent="Bp1vet-o6-UBfAYQzdVO-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="El jugador 3 ha caído en la casilla caja de la comunidad." vertex="1">
+          <mxGeometry height="30" width="170" x="15" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ySon_ZD4ELbMsgVXR0t4-3" parent="Bp1vet-o6-UBfAYQzdVO-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jugador 3 debe pagar 200$ por cada casa que posea por reparaciones.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FXgd-CHVyLwEwwq-kU2H-3" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;strokeColor=light-dark(#000000,#000000);fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="130" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-13" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-15" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-17" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-18" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;rotation=95;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="130" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-19" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-20" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-21" parent="FXgd-CHVyLwEwwq-kU2H-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Comfortaa&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Comfortaa&quot;&gt;Tirar dados&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="340" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-24" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;strokeColor=light-dark(#000000,#000000);fillColor=#FFFFFF;rotation=15;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="60" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-25" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="90" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-30" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="80" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-29" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="130" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-32" parent="FXgd-CHVyLwEwwq-kU2H-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-27" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;rotation=-60;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="60" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-2" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="90" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1vet-o6-UBfAYQzdVO-26" parent="FXgd-CHVyLwEwwq-kU2H-1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="130" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-13" parent="FXgd-CHVyLwEwwq-kU2H-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneFillColor=#FFFFFF;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="Jugadores" vertex="1">
+          <mxGeometry height="210" width="200" x="60" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-14" parent="LuLRAenW7TE6szlli-Pz-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jugador 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-15" parent="LuLRAenW7TE6szlli-Pz-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;4500$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-16" parent="LuLRAenW7TE6szlli-Pz-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jugador 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-19" parent="LuLRAenW7TE6szlli-Pz-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;2400$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-20" parent="LuLRAenW7TE6szlli-Pz-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jugador 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LuLRAenW7TE6szlli-Pz-21" parent="LuLRAenW7TE6szlli-Pz-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;250$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
