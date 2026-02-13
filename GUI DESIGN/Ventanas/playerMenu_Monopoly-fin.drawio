@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Página-1" id="jlqzouBECB6qVDadH2Ve">
+    <mxGraphModel dx="1258" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;swimlaneLine=1;strokeWidth=1;" value="Monopoly" vertex="1">
+          <mxGeometry height="500" width="500" x="130" y="140" as="geometry">
+            <mxRectangle height="30" width="140" x="120" y="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-52" parent="3dLlLbIzrDrOZCU1e3JI-35" style="text;strokeColor=none;fillColor=none;html=1;fontSize=50;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" value="Jugadores" vertex="1">
+          <mxGeometry height="60" width="170" x="165" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-54" parent="3dLlLbIzrDrOZCU1e3JI-35" style="rounded=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=20;align=left;labelBackgroundColor=none;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;html=1;" value="Jugador 1..." vertex="1">
+          <mxGeometry height="30" width="210" x="110" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-57" parent="3dLlLbIzrDrOZCU1e3JI-35" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=light-dark(#A20025,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#6F0000,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="480" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-68" parent="3dLlLbIzrDrOZCU1e3JI-35" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Comfortaa&quot;&gt;Volver&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="17.5" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-70" parent="3dLlLbIzrDrOZCU1e3JI-35" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Comfortaa&quot;&gt;Jugar&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="410" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-91" parent="3dLlLbIzrDrOZCU1e3JI-35" style="rounded=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=20;align=left;labelBackgroundColor=none;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;html=1;" value="Jugador 2..." vertex="1">
+          <mxGeometry height="30" width="210" x="110" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-92" parent="3dLlLbIzrDrOZCU1e3JI-35" style="rounded=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=20;align=left;labelBackgroundColor=none;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;html=1;" value="Jugador 3..." vertex="1">
+          <mxGeometry height="30" width="210" x="110" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-93" parent="3dLlLbIzrDrOZCU1e3JI-35" style="rounded=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=20;align=left;labelBackgroundColor=none;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;html=1;" value="Jugador 4..." vertex="1">
+          <mxGeometry height="30" width="210" x="110" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-94" parent="3dLlLbIzrDrOZCU1e3JI-35" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=0;fillColor=light-dark(#FFFFFF,#FF0000);strokeColor=light-dark(#000000,#FF0000);" value="" vertex="1">
+          <mxGeometry height="73.5" width="37.5" x="32.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-96" parent="3dLlLbIzrDrOZCU1e3JI-35" style="triangle;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00FF00);strokeColor=light-dark(#000000,#00FF00);" value="" vertex="1">
+          <mxGeometry height="46.75" width="30" x="440" y="393.37" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-98" parent="3dLlLbIzrDrOZCU1e3JI-35" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="25" width="20" x="370" y="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-100" parent="3dLlLbIzrDrOZCU1e3JI-35" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=light-dark(#000000,#FF0000);" value="" vertex="1">
+          <mxGeometry height="25" width="20" x="370" y="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-101" parent="3dLlLbIzrDrOZCU1e3JI-35" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=light-dark(#000000,#2AFF00);" value="" vertex="1">
+          <mxGeometry height="25" width="20" x="370" y="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3dLlLbIzrDrOZCU1e3JI-102" parent="3dLlLbIzrDrOZCU1e3JI-35" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=light-dark(#000000,#0019FF);" value="" vertex="1">
+          <mxGeometry height="25" width="20" x="370" y="332.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
