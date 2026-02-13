@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Página-1" id="jlqzouBECB6qVDadH2Ve">
-    <mxGraphModel dx="1258" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,9 +110,6 @@
             <mxPoint x="241.08999999999997" y="365" as="sourcePoint" />
             <mxPoint x="241.08999999999997" y="175" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RJ8V0_6ubrgBCKJ14L8C-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=light-dark(#FFFFFF,#121212);imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Arrow_Outline-2875/left_3-1362.svg;strokeWidth=7;imageBackground=none;imageBorder=none;whiteSpace=wrap;convertToSvg=1;" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="420" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
