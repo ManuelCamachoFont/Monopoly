@@ -1,4 +1,3 @@
-jugadores(#idJugador, nombreJugador, dineroJugador);
-casillas(#idCasilla, nombreCasilla, posicionCasilla, tipoCasilla, idJugadorFK);
-ranking(#idRanking, dineroFinalRanking, propiedadesFinalRanking);
-jugadoresranking(#idJugadoresRanking, idJugadorFK, idRankingFK);
+
+casillas(#idCasilla, nombreCasilla, tipoCasilla, );
+ranking(#idRanking, nombreJugadorRanking dineroFinalRanking, casasFinalRanking, hotelesFinalRanking);
