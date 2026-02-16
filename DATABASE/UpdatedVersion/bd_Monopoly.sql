@@ -27,7 +27,8 @@ CREATE TABLE casillas (
 CREATE TABLE ranking (
     idRanking INT AUTO_INCREMENT,
     dineroFinalRanking INT NOT NULL,
-    propiedadesFinalRanking INT NOT NULL,
+    casasFinalRanking INT NOT NULL,
+    hotelesFinalRanking INT NOT NULL,
     PRIMARY KEY (idRanking)
 );
 -- Crear tabla jugadoresranking

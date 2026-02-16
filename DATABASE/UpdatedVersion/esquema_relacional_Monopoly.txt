@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 
 casillas(#idCasilla, nombreCasilla, tipoCasilla, );
 ranking(#idRanking, nombreJugadorRanking dineroFinalRanking, casasFinalRanking, hotelesFinalRanking);
+=======
+jugadores(#idJugador, nombreJugador, dineroJugador);
+casillas(#idCasilla, nombreCasilla, posicionCasilla, tipoCasilla, idJugadorFK);
+ranking(#idRanking, dineroFinalRanking, casasFinalRanking, hotelesFinalRanking);
+jugadoresranking(#idJugadoresRanking, idJugadorFK, idRankingFK);
+
+
+
+
+>>>>>>> f9aad60b972a9299269c2208281a95553c84d359
